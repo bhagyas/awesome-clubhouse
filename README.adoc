@@ -9,8 +9,24 @@ toc::[]
 
 == Content
 
+### Official Links
+* https://www.joinclubhouse.com/[https://www.joinclubhouse.com/]
+* https://twitter.com/joinclubhouse[https://twitter.com/joinclubhouse]
+
 ### Topics
+
+#### AI/ML
 TBA
+
+#### Fintech
+TBA
+
+#### Femtech
+TBA
+
+#### Software Architecture
+
+#### Enterprise Software
 
 ### Rooms
 TBA
