@@ -1,5 +1,6 @@
 :toc:
 :toc-placement!:
+:toclevels: 5
 
 [discrete]
 = Awesome Clubhouse
