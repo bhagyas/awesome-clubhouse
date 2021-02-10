@@ -45,14 +45,15 @@ TBA
 ### Tools and Utilities
 
 #### Hosting Tools
-* https://gethostnotes.com/?ref=awesome-clubhouse[Host Notes for Clubhouse]
-* https://clublink.to/?ref=awesome-clubhouse[Clubhouse links worth sharing on social media ✌🏻]
+* https://gethostnotes.com/?ref=awesome-clubhouse[Host Notes - Host Notes for Clubhouse]
+* https://clublink.to/?ref=awesome-clubhouse[ClubLink - Clubhouse links worth sharing on social media ✌🏻]
+* https://clubhype.io/?ref=awesome-clubhouse[ClubType - Generate a sleek preview image you can share on social media]
 
 #### Profile Picture Generators/Modifiers
-* https://clubhousebio.xyz/?ref=awesome-clubhouse[In Browser Editor for Clubhouse Bio]
-* https://www.clubhouseglow.com/?ref=awesome-clubhouse[Color ring around your avatar to stand out in the cloud]
+* https://clubhousebio.xyz/?ref=awesome-clubhouse[clubhousebio.xyz - In Browser Editor for Clubhouse Bio]
+* https://www.clubhouseglow.com/?ref=awesome-clubhouse[clubhouseglow.com - Color ring around your avatar to stand out in the cloud]
 * https://avatar.lvwzhen.com/?ref=awesome-clubhouse[Avatar Maker for Clubhouse]
-* https://chpic.me/?ref=awesome-clubhouse[👋 Clubhouse Profile Picture Ring]
+* https://chpic.me/?ref=awesome-clubhouse[chpic.me - 👋 Clubhouse Profile Picture Ring]
 
 
 ### Additional Resources
