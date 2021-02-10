@@ -10,8 +10,10 @@ toc::[]
 == Content
 
 ### Official Links
-* https://www.joinclubhouse.com/[https://www.joinclubhouse.com/]
+* https://www.joinclubhouse.com/[https://www.joinclubhouse.com]
 * https://twitter.com/joinclubhouse[https://twitter.com/joinclubhouse]
+* https://www.instagram.com/joinclubhouse[https://www.instagram.com/joinclubhouse]
+* https://apps.apple.com/us/app/clubhouse-drop-in-audio-chat/id1503133294[AppStore Link]
 
 ### Topics
 
