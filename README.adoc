@@ -4,7 +4,7 @@
 
 [discrete]
 = Awesome Clubhouse
-A curated list of resources for Developers on Clubhouse (The social drop-in audio platform)
+A curated list of resources for Developers on Clubhouse (The social drop-in audio platform). Feel free to contribute!
 
 toc::[]
 
