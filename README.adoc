@@ -18,6 +18,9 @@ toc::[]
 #### AI/ML
 TBA
 
+#### Enterprise Software
+TBA
+
 #### Fintech
 TBA
 
@@ -26,7 +29,7 @@ TBA
 
 #### Software Architecture
 
-#### Enterprise Software
+
 
 ### Rooms
 TBA
