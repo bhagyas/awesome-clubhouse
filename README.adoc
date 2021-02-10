@@ -8,9 +8,22 @@ Resources for Developers on Clubhouse
 == Content
 
 ## Topics
+TBA
 
 ## Rooms
+TBA
+
+## Users
+- @bhagyas - I wrote this.
+
+## Clones
+* https://github.com/bestony/neshouse[Open Source implementation of Clubhouse]
 
 ## Utilities
 * https://clubhousebio.xyz/?ref=awesome-clubhouse[In Browser Editor for Clubhouse Bio]
 * https://www.clubhouseglow.com/?ref=awesome-clubhouse[Color ring around your avatar to stand out in the cloud]
+* https://avatar.lvwzhen.com/?ref=awesome-clubhouse[Avatar Maker for Clubhouse]
+* https://gethostnotes.com/?ref=awesome-clubhouse[Host Notes for Clubhouse]
+
+
+_Follow @bhagyas on Clubhouse to say hello!_
