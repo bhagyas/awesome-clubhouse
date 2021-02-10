@@ -1,25 +1,27 @@
 :toc:
 :toc-placement!:
-toc::[]
 
-# awesome-clubhouse
-Resources for Developers on Clubhouse
+[discrete]
+= Awesome Clubhouse
+A curated list of resources for Developers on Clubhouse 
+
+toc::[]
 
 == Content
 
-## Topics
+### Topics
 TBA
 
-## Rooms
+### Rooms
 TBA
 
-## Users
+### Users
 - @bhagyas - I wrote this.
 
-## Clones
+### Clones
 * https://github.com/bestony/neshouse[Open Source implementation of Clubhouse]
 
-## Utilities
+### Utilities
 * https://clubhousebio.xyz/?ref=awesome-clubhouse[In Browser Editor for Clubhouse Bio]
 * https://www.clubhouseglow.com/?ref=awesome-clubhouse[Color ring around your avatar to stand out in the cloud]
 * https://avatar.lvwzhen.com/?ref=awesome-clubhouse[Avatar Maker for Clubhouse]
