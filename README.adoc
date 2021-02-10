@@ -40,7 +40,7 @@ TBA
 - @bhagyas - I wrote this.
 
 ### Clones
-* https://github.com/bestony/neshouse[Open Source implementation of Clubhouse]
+* https://github.com/bestony/neshouse[NESHouse.com - An open source implementation of ClubHouse ]
 
 ### Tools and Utilities
 
