@@ -16,39 +16,47 @@ toc::[]
 * https://www.instagram.com/joinclubhouse[https://www.instagram.com/joinclubhouse]
 * https://apps.apple.com/us/app/clubhouse-drop-in-audio-chat/id1503133294[AppStore Link]
 
-### Topics
+### Discovery [incomplete]
+#### Topics
 
-#### AI/ML
+##### AI/ML
 TBA
 
-#### Enterprise Software
+##### Enterprise Software
 TBA
 
-#### Fintech
+##### Fintech
 TBA
 
-#### Femtech
+##### Femtech
 TBA
 
-#### Software Architecture
+##### Software Architecture
 
-
-
-### Rooms
+#### Rooms
 TBA
 
-### Users
+#### Users
 - @bhagyas - I wrote this.
 
 ### Clones
 * https://github.com/bestony/neshouse[Open Source implementation of Clubhouse]
 
-### Utilities
+### Tools and Utilities
+
+#### Hosting Tools
+* https://gethostnotes.com/?ref=awesome-clubhouse[Host Notes for Clubhouse]
+* https://clublink.to/?ref=awesome-clubhouse[Clubhouse links worth sharing on social media ✌🏻]
+
+#### Profile Picture Generators/Modifiers
 * https://clubhousebio.xyz/?ref=awesome-clubhouse[In Browser Editor for Clubhouse Bio]
 * https://www.clubhouseglow.com/?ref=awesome-clubhouse[Color ring around your avatar to stand out in the cloud]
 * https://avatar.lvwzhen.com/?ref=awesome-clubhouse[Avatar Maker for Clubhouse]
-* https://gethostnotes.com/?ref=awesome-clubhouse[Host Notes for Clubhouse]
+* https://chpic.me/?ref=awesome-clubhouse[👋 Clubhouse Profile Picture Ring]
 
+
+### Additional Resources
+* https://www.producthunt.com/search?q=clubhouse[Product Hunt search for Clubhouse]
 
 == Contributing and License
 
