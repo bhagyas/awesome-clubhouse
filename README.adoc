@@ -3,7 +3,7 @@
 
 [discrete]
 = Awesome Clubhouse
-A curated list of resources for Developers on Clubhouse 
+A curated list of resources for Developers on Clubhouse (The social drop-in audio platform)
 
 toc::[]
 
