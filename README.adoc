@@ -49,4 +49,11 @@ TBA
 * https://gethostnotes.com/?ref=awesome-clubhouse[Host Notes for Clubhouse]
 
 
+== Contributing and License
+
+Create an issue or a pull request with your submission. It will be evaluated and then made into this list.
+
+Distributed under the MIT License. See LICENSE for more information.
+
+
 _Follow @bhagyas on Clubhouse to say hello!_
