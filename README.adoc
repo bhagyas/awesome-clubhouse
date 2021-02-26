@@ -6,6 +6,8 @@
 = Awesome Clubhouse
 A curated list of resources for Developers on Clubhouse (The social drop-in audio platform). Feel free to contribute!
 
+These links to resources are intended for educational purposes only. Do not use these to break the Terms of Service (TOS) provided by Clubhouse. 
+
 toc::[]
 
 == Content
