@@ -60,7 +60,7 @@ toc::[]
 
 #### Profile Tools
 ##### Bio generators
-- https://www.clubhousebio.app/?ref=awesome-clubhouse
+- https://www.clubhousebio.app/?ref=awesome-clubhouse[Clubhouse Bio Builder - Creatively craft your bio and immediately get more followers.]
 
 ##### DP Generators
 * https://clubhousebio.xyz/?ref=awesome-clubhouse[clubhousebio.xyz - In Browser Editor for Clubhouse Bio]
