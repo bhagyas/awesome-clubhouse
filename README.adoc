@@ -31,21 +31,32 @@ toc::[]
 - https://github.com/Seia-Soto/clubhouse-api
 - https://github.com/grishka/Houseclub
 
-#### Third-party communities
+#### Invitations Third-party communities
 - https://t.me/clubhouse_invites_exchange
+- https://invitehouse.net/?ref=awesome-clubhouse[Invitehouse - Get an invite to Clubhouse and share 2 of yours with others]
 
 ### Clones
-* https://github.com/bestony/neshouse[NESHouse.com - An open source implementation of ClubHouse ]
+
+#### Opensource
+- https://github.com/bestony/neshouse[NESHouse.com - An open source implementation of ClubHouse ]
+
+#### Other
+- https://jam.systems/?ref=awesome-clubhouse[Jam - Your own open source Clubhouse for mini conferences, friends]
+- https://joinscrubhouse.com/?ref=awesome-clubhouse[Scrubhouse - Drop-in audio chat for the rest of us]
 
 ### Tools and Utilities
 #### Analytics
 - https://www.direcon.com/[Direcon - Detailed Analytics for Clubhouse]
 
+#### Audience Tools
+- https://askclub.house/en[AskClubhouse - Allow your Clubhouse audience to ask written questions]
+
 #### Hosting Tools
 * https://gethostnotes.com/?ref=awesome-clubhouse[Host Notes - Host Notes for Clubhouse]
 * https://clublink.to/?ref=awesome-clubhouse[ClubLink - Clubhouse links worth sharing on social media ✌🏻]
 * https://clubhype.io/?ref=awesome-clubhouse[ClubType - Generate a sleek preview image you can share on social media]
-- https://www.clubpad.co/?ref=awesome-clubhouse[clubpad - reaction sounds for your clubhouse rooms... or zoom calls.]
+* https://www.clubpad.co/?ref=awesome-clubhouse[clubpad - reaction sounds for your clubhouse rooms... or zoom calls.]
+* https://www.yoyo.club/?ref=awesome-clubhouse[YoYo - Keep your Clubhouse Audience Engaged]
 
 #### Profile Tools
 ##### Bio generators
@@ -56,6 +67,11 @@ toc::[]
 * https://www.clubhouseglow.com/?ref=awesome-clubhouse[clubhouseglow.com - Color ring around your avatar to stand out in the cloud]
 * https://avatar.lvwzhen.com/?ref=awesome-clubhouse[Avatar Maker for Clubhouse]
 * https://chpic.me/?ref=awesome-clubhouse[chpic.me - 👋 Clubhouse Profile Picture Ring]
+
+
+#### Sharing and Publishing 
+- https://casthouse.net/?ref=awesome-clubhouse[Cast House - Record, upload and share your Clubhouse sessions]
+
 
 ### Additional Resources
 * https://www.producthunt.com/search?q=clubhouse[Product Hunt search for Clubhouse]
