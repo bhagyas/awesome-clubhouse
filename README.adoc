@@ -16,28 +16,20 @@ toc::[]
 * https://www.instagram.com/joinclubhouse[https://www.instagram.com/joinclubhouse]
 * https://apps.apple.com/us/app/clubhouse-drop-in-audio-chat/id1503133294[AppStore Link]
 
-### Discovery [incomplete]
-#### Topics
 
-##### AI/ML
-TBA
-
-##### Enterprise Software
-TBA
-
-##### Fintech
-TBA
-
-##### Femtech
-TBA
-
-##### Software Architecture
-
+### Discovery
 #### Rooms
-TBA
+- [TBA]
 
 #### Users
 - @bhagyas - I wrote this.
+
+
+### Unofficial 
+#### API
+- https://github.com/stypr/clubhouse-py
+- https://github.com/Seia-Soto/clubhouse-api
+- https://github.com/grishka/Houseclub
 
 ### Clones
 * https://github.com/bestony/neshouse[NESHouse.com - An open source implementation of ClubHouse ]
