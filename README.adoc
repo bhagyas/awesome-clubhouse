@@ -19,7 +19,7 @@ toc::[]
 
 ### Discovery
 #### Rooms
-- [TBA]
+- https://roomsofclubhouse.com/[Rooms of Clubhouse - Search open and scheduled Rooms in the Clubhouse App]
 
 #### Users
 - @bhagyas - I wrote this.
@@ -31,22 +31,31 @@ toc::[]
 - https://github.com/Seia-Soto/clubhouse-api
 - https://github.com/grishka/Houseclub
 
+#### Third-party communities
+- https://t.me/clubhouse_invites_exchange
+
 ### Clones
 * https://github.com/bestony/neshouse[NESHouse.com - An open source implementation of ClubHouse ]
 
 ### Tools and Utilities
+#### Analytics
+- https://www.direcon.com/[Direcon - Detailed Analytics for Clubhouse]
 
 #### Hosting Tools
 * https://gethostnotes.com/?ref=awesome-clubhouse[Host Notes - Host Notes for Clubhouse]
 * https://clublink.to/?ref=awesome-clubhouse[ClubLink - Clubhouse links worth sharing on social media ✌🏻]
 * https://clubhype.io/?ref=awesome-clubhouse[ClubType - Generate a sleek preview image you can share on social media]
+- https://www.clubpad.co/?ref=awesome-clubhouse[clubpad - reaction sounds for your clubhouse rooms... or zoom calls.]
 
-#### Profile Picture Generators/Modifiers
+#### Profile Tools
+##### Bio generators
+- https://www.clubhousebio.app/?ref=awesome-clubhouse
+
+##### DP Generators
 * https://clubhousebio.xyz/?ref=awesome-clubhouse[clubhousebio.xyz - In Browser Editor for Clubhouse Bio]
 * https://www.clubhouseglow.com/?ref=awesome-clubhouse[clubhouseglow.com - Color ring around your avatar to stand out in the cloud]
 * https://avatar.lvwzhen.com/?ref=awesome-clubhouse[Avatar Maker for Clubhouse]
 * https://chpic.me/?ref=awesome-clubhouse[chpic.me - 👋 Clubhouse Profile Picture Ring]
-
 
 ### Additional Resources
 * https://www.producthunt.com/search?q=clubhouse[Product Hunt search for Clubhouse]
